@@ -9,5 +9,5 @@ while True:
         if pergunta == 2:
             print("{}°F".format(codigo.f(temp)))
         elif pergunta != 1 or pergunta != 2:
-            print("Não existe essa função '-' ")
+            print("Não existe essa função ('_') ")
             break
