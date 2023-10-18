@@ -1,5 +1,6 @@
 import codigo
 while True:
+
     temp = float(input("Digite a temperatura: "))
 
     pergunta = int(input("Vc quer converter para celsius para Fahrenheit, ou Fahrenheit para celsius: 1/2  "))
